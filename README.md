@@ -32,13 +32,13 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shine-pathrose&show_icons=true&theme=radical" alt="shine-pathrose" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=SHINE-P-PATHROSE&show_icons=true&theme=radical" alt="SHINE-P-PATHROSE" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shine-pathrose&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHINE-P-PATHROSE&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=shine-pathrose&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SHINE-P-PATHROSE&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 ---
