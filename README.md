@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Aswin Kumar**  
+# 👋 Hey, I'm **SHINE P PATHROSE**  
 
 ### 📊 **Full-Stack Developer** | 🤖 **Full-Stack Developer** | ⚙️ **Python DJANGO Developer**  
 
