@@ -1,13 +1,13 @@
 # 👋 Hey, I'm **Aswin Kumar**  
 
-### 📊 **Data Analyst** | 🤖 **Data Scientist** | ⚙️ **AI & Automation Enthusiast**  
+### 📊 **Full-Stack Developer** | 🤖 **Full-Stack Developer** | ⚙️ **Python DJANGO Developer**  
 
 ---
 
 <img align="right" width="370" height="290" src="./assets/developer-640px.gif">  
 
-- 🔭 Check out my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐
-- 🌟 Aspiring to launch **[Wisoft Solution ✨](https://ashvinz.github.io/wisoft-portfolio/)** — my future IT venture aiming to empower businesses 
+- 🔭 Check out my **[Portfolio](#)** 🌐
+- 🌟 Aspiring to launch **[Wisoft Solution ✨](#)** — my future IT venture aiming to empower businesses 
   through **Data Science, Web Development, and Cloud Automation**.
 - 📊 Strong in **Data Wrangling, EDA (Exploratory Data Analysis), and Visualization**  
 - 🤖 Expertise in **Machine Learning**, **Deep Learning**, and **AI model deployment**
