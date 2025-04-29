@@ -32,13 +32,13 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shine-pathrose&show_icons=true&theme=radical" alt="shine-pathrose" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shine-pathrose&show_icons=true&theme=radical" alt="shine-pathrose" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shine-pathrose&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine-pathrose&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=shine-pathrose&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 ---
@@ -76,10 +76,10 @@
 ---
 
 ## 🎯 Goals for 2025
-- 🚀 Build 3 more production-ready Django applications
-- 📘 Contribute to open-source Django packages
-- 🎓 Master Django Channels & Celery
-- 🌍 Land a full-time role as a Django Developer
+- 🚀 Build 3 more production-ready Django applications  
+- 📘 Contribute to open-source Django packages  
+- 🎓 Master Django Channels & Celery  
+- 🌍 Land a full-time role as a Django Developer  
 
 ---
 
