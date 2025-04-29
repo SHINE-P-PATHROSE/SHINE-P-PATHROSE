@@ -69,7 +69,7 @@
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shine-pathrose" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="shine-pathrose" /></a>
+<a href="www.linkedin.com/in/shine-p-pathrose-babb30227" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="shine-pathrose" /></a>
 <a href="mailto:shineppathrose2002@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shineppathrose2002@gmail.com" /></a>
 </p>
 
