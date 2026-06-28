@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shine P Pathrose</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shine P Pathrose</h1>
 
 <h3 align="center">Python Full Stack Developer | Django | REST API | JavaScript | MySQL</h3>
 
@@ -184,4 +184,300 @@ Passionate about building scalable, responsive, and user-friendly web applicatio
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.** -->
+
+# <h1 align="center">Hi 👋, I'm Shine P Pathrose</h1>
+
+<h3 align="center">Python Full Stack Developer | Django | Django REST Framework | JavaScript</h3>
+
+<p align="center">
+Building scalable web applications with clean code, modern UI, and robust backend architecture.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;REST+API+Developer;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SHINE-P-PATHROSE&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/SHINE-P-PATHROSE?label=Followers&style=social"/>
+
+<img src="https://img.shields.io/github/stars/SHINE-P-PATHROSE?affiliations=OWNER&style=social"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```python
+class ShinePathrose:
+
+    def __init__(self):
+        self.role = "Python Full Stack Developer"
+        self.language = ["Python", "JavaScript"]
+        self.backend = ["Django", "Django REST Framework"]
+        self.frontend = ["HTML5", "CSS3", "Bootstrap"]
+        self.database = ["MySQL", "SQLite"]
+        self.tools = ["Git", "GitHub", "Postman", "VS Code"]
+        self.learning = ["React.js", "Docker", "Deployment"]
+        self.goal = "Build scalable web applications and continuously improve."
+
+me = ShinePathrose()
+```
+
+---
+
+# 🚀 About Me
+
+* 🔭 Currently building **Production Ready Django Applications**
+* 🌱 Learning **React.js, Docker, Deployment & Advanced Django**
+* 💡 Interested in **Backend Development, REST APIs & Full Stack Development**
+* 💬 Ask me about **Python, Django, REST APIs, MySQL, JavaScript**
+* 📫 **Email:** [shineppathrose2002@gmail.com](mailto:shineppathrose2002@gmail.com)
+* ⚡ Fun Fact: **I debug more than I sleep.**
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
+
+## ⚙️ Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+* Django REST Framework
+* REST APIs
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+</p>
+
+---
+
+# 💼 Core Skills
+
+* Python Programming
+* Django Web Development
+* Django REST Framework
+* Full Stack Development
+* REST API Development
+* Authentication & Authorization
+* CRUD Applications
+* Responsive Web Design
+* Database Design
+* Git & GitHub
+* MVC Architecture
+* Object-Oriented Programming
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Django E-Commerce Website
+
+✔ User Authentication
+
+✔ Product Management
+
+✔ Shopping Cart
+
+✔ Wishlist
+
+✔ Checkout System
+
+✔ Order Management
+
+✔ Admin Dashboard
+
+✔ Image Upload
+
+✔ Responsive UI
+
+---
+
+## 🏢 Leave Management System
+
+✔ Employee Dashboard
+
+✔ Leave Request Workflow
+
+✔ Attendance Tracking
+
+✔ Leave Balance
+
+✔ Role-Based Authentication
+
+✔ LOP Calculation
+
+---
+
+## 🌐 Portfolio Website
+
+✔ Responsive Design
+
+✔ Django Backend
+
+✔ Contact Form
+
+✔ Resume Download
+
+✔ Project Showcase
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHINE-P-PATHROSE&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SHINE-P-PATHROSE&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHINE-P-PATHROSE&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SHINE-P-PATHROSE&theme=algolia&column=4&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHINE-P-PATHROSE&theme=github-dark"/>
+
+</p>
+
+---
+
+# 💻 What I'm Working On
+
+* 🛒 Enterprise Django E-Commerce Platform
+* 🌐 Personal Portfolio Website
+* 📚 Advanced Django REST APIs
+* ⚛ Learning React.js
+* 🐳 Exploring Docker
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Master Django REST Framework
+* ✅ Build Enterprise-Level Django Applications
+* ✅ Learn React.js
+* ✅ Learn Docker & CI/CD
+* ✅ Contribute to Open Source
+* ✅ Strengthen Data Structures & Algorithms
+* ✅ Secure a Full-Time Python Full Stack Developer Role
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shine-p-pathrose-babb30227">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:shineppathrose2002@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+
+</p>
+
+<h3 align="center">
+⭐ If you like my work, consider giving my repositories a Star!
+</h3>
+
