@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Shine P Pathrose</h1>
+<h1 align="center">Hi 👋, I'm Shine P Pathrose</h1>
 
 <h3 align="center">Python Full Stack Developer | Django | REST API | JavaScript | MySQL</h3>
 
@@ -184,5 +184,4 @@ Passionate about building scalable, responsive, and user-friendly web applicatio
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.** -->
-
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
